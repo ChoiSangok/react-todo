@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+/* 기존에 드린 스크롤바 숨김 설정은 그대로 유지해도 됩니다 */
+.custom-scrollbar::-webkit-scrollbar {
+  display: none;
+}
